@@ -1,6 +1,6 @@
 # IPTV-tool-on-windows
 functions as follows:<br>
-1.resove m3u file from internet.<br>
+1.analyze m3u file from internet.<br>
 2.list channels which is avaliable from m3u.<br>
 3.choose a channel and play it.<br>
 
